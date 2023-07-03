@@ -1,4 +1,4 @@
 /airflow_env
 /logs
 /config
-/__pycache__
+/py_cache
